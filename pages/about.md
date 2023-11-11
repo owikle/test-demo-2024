@@ -21,7 +21,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 ## Heading 2
 
-{% include feature/image.html objectid="demo_001" width="75" %}
+{% include feature/image.html objectid="psychiana031" width="75" %}
 
 This is a sentence. This is a second sentence.
 
