@@ -21,6 +21,29 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 ## Heading 2
 
+This is a sentence. This is a second sentence.
+
+This is a first sentence.
+This is a second sentence.
+
+This is a first sentence.
+
+This is a second sentence.
+
+Here is a list:
+
+- Thing 1
+- Thing 2
+- Thing 3
+
+Here is a numbered list:
+
+1. puppies
+2. kittens
+3. cookies
+
+Here is a link to [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)
+
 ### Heading 3
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
