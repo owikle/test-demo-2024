@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Heading 2;Heading 3;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Heading 2;About the About Page" %}
 
 ## About the Collection
 
@@ -23,7 +23,14 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 {% include feature/image.html objectid="psychiana031" width="75" %}
 
+{% include feature/image.html objectid="psychiana031" width="75" caption="This is a new addition to my About page" %}
+
+This is a sentence. This is a second sentence. 
+
 This is a sentence. This is a second sentence.
+
+This is a sentence.
+This is a second sentence.
 
 This is a first sentence.
 This is a second sentence.
